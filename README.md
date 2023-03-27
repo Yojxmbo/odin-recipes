@@ -9,4 +9,4 @@ main thing I will be using on this project, HTML.
 
 You can view @ https://yojxmbo.github.io/odin-recipes/
 
-Cheers. 
+Cheers.
