@@ -1,0 +1,29 @@
+* {
+    background-color: greenyellow;
+}
+
+body {
+    background-color: white;
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: lighter;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+body ul li a {
+    text-decoration: none;
+}
+
+body ul li {
+    list-style: none;
+}
+
+li:hover {
+    background-color: red;
+}
